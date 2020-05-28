@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14949" started-at="2020-05-27T17:24:55 PDT" finished-at="2020-05-27T17:25:10 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14949" started-at="2020-05-27T17:24:55 PDT" finished-at="2020-05-27T17:25:10 PDT">
+      <class name="TestCapitals">
+        <test-method status="PASS" signature="NegativeTestCasesSearchByCode()[pri:0, instance:TestCapitals@6ebc05a6]" name="NegativeTestCasesSearchByCode" duration-ms="7160" started-at="2020-05-27T17:24:55 PDT" finished-at="2020-05-27T17:25:03 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeTestCasesSearchByCode -->
+        <test-method status="PASS" signature="NegativeTestCasesSearchByCountryName()[pri:0, instance:TestCapitals@6ebc05a6]" name="NegativeTestCasesSearchByCountryName" duration-ms="3728" started-at="2020-05-27T17:25:03 PDT" finished-at="2020-05-27T17:25:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeTestCasesSearchByCountryName -->
+        <test-method status="PASS" signature="positiveTestCasesSearchByCode()[pri:0, instance:TestCapitals@6ebc05a6]" name="positiveTestCasesSearchByCode" duration-ms="2018" started-at="2020-05-27T17:25:06 PDT" finished-at="2020-05-27T17:25:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTestCasesSearchByCode -->
+        <test-method status="PASS" signature="positiveTestCasesSearchByCountryName()[pri:0, instance:TestCapitals@6ebc05a6]" name="positiveTestCasesSearchByCountryName" duration-ms="1975" started-at="2020-05-27T17:25:08 PDT" finished-at="2020-05-27T17:25:10 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveTestCasesSearchByCountryName -->
+      </class> <!-- TestCapitals -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
