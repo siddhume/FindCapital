@@ -6,7 +6,33 @@ Under FindCapital/src/test/java/ you will find 2 files
 TestCapitals.java is the testNG file where I have written test cases to validate positive and negative scenario’s.
 These test cases have been written using the TestNG Framework, and can be run as a testNG Test or through the mvn test command 
 
+## Steps to run the tests:
+1. Clone the folder
+git clone https://github.com/siddhume/FindCapital.git
+
+2. change directory to FindCapital
+cd FindCapital
+
+3. Run following command to run tests
+mvn clean test
+
+4. To see the results of the tests
+cd ./target/surefire-reports/
+
+5. Open index.html in the browser
 Run as TestNG Test
+
+===========================================================
+
+## Steps to run main program from eclipse
+1. Open project in eclipse
+
+2. Run the main program in UserInput.java
+
+===========================================================
+
+## Please see the following log of a sample test execution:
+
 
 ![image](https://user-images.githubusercontent.com/66041042/83098343-33d29f00-a05f-11ea-9a6b-c00a80c067cd.png)
 
@@ -14,7 +40,6 @@ Run as TestNG Test
 Run using mvn test
 
 ![image](https://user-images.githubusercontent.com/66041042/83098542-d559f080-a05f-11ea-8d32-d41671c97595.png)
-
 
 The UserInput.java file is the Application which prompts the user to enter either a code or Country name and returns the capital. Below is the screenshot of one workflow:
 
