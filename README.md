@@ -6,7 +6,7 @@ Under FindCapital/src/test/java/ you will find 2 files
 TestCapitals.java is the testNG file where I have written test cases to validate positive and negative scenario’s.
 These test cases have been written using the TestNG Framework, and can be run as a testNG Test or through the mvn test command.
 
-The UserInput.java file is the Application which prompts the user to enter either a code or Country name and returns the capital
+The UserInput.java file is the Application which prompts the user to enter either a code or country name and returns the capital
 
 ## Steps to run the tests:
 1. Clone the folder
@@ -29,7 +29,7 @@ Run as TestNG Test
 ## Steps to run main program from eclipse
 1. Open project in eclipse
 
-2. Run the main program in UserInput.java
+2. Run the UserInput.java under src/test/java as a Java Application
 
 ===========================================================
 
