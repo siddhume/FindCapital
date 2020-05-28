@@ -10,19 +10,24 @@ The UserInput.java file is the Application which prompts the user to enter eithe
 
 ## Steps to run the tests:
 1. Clone the folder
-git clone https://github.com/siddhume/FindCapital.git
+
+```git clone https://github.com/siddhume/FindCapital.git```
 
 2. change directory to FindCapital
-cd FindCapital
+
+```cd FindCapital```
 
 3. Run following command to run tests
-mvn clean test
+
+```mvn clean test```
 
 4. To see the results of the tests
-cd ./target/surefire-reports/
+
+```cd ./target/surefire-reports/```
 
 5. Open index.html in the browser
-Run as TestNG Test
+
+
 
 ===========================================================
 
